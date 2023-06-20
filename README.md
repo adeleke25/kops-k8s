@@ -43,7 +43,7 @@
  ```
 ## 3) Install kops software on an ubuntu instance by running the commands below:
  	sudo apt install wget -y
- 	sudo wget https://github.com/kubernetes/kops/releases/download/v1.22.0/kops-linux-amd64
+ 	sudo wget  https://github.com/kubernetes/kops/blob/master/permalinks/upgrade_kops.md#1.21.4
  	sudo chmod +x kops-linux-amd64
  	sudo mv kops-linux-amd64 /usr/local/bin/kops
  
